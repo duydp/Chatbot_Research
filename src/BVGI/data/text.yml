@@ -1,0 +1,244 @@
+vi:
+  error:
+    - "Xin lỗi bạn, hiện tại hệ thống đang gặp lỗi."
+  no_click_button:
+    - "@gender vui lòng chọn một trong các lựa chọn ở trên"
+  back_faq:
+    - "Vậy @gender @full_name vui lòng tiếp tục đặt câu hỏi khác"
+  welcome_first_time:
+    - "Em là Vân Anh, nhân viên CSKH ảo của FPT Telecom, rất hân hạnh được phục vụ @gender @full_name. Xin mời @gender đặt câu hỏi về thông tin sản phẩm & dịch vụ."
+  welcome_first_time_answer:
+    - "Em là Vân Anh, nhân viên CSKH ảo của FPT Telecom, rất hân hạnh được phục vụ @gender @full_name"
+  welcome_second_time:
+      - "Rất vui được gặp lại @gender @full_name, em Vân Anh có thể phục vụ gì @gender không ạ?"
+  welcome_second_time_answer:
+      - "Em rất vui được gặp lại @gender @full_name"
+  goodbye:
+    - "Xin cảm ơn!"
+  no_answer:
+    - "Xin lỗi @gender, rất tiếc hiện tại em chưa thể giải đáp được vấn đề này. Em đã chuyển yêu cầu của @gender tới nhân viên Chăm sóc khách hàng."
+  dontunderstand:
+    - :( Xin lỗi, em chưa rõ vấn đề của @gender. Phiền @gender hỏi lại cụ thể hơn, ví dụ "Đăng ký Internet FPT như thế nào?"
+    - :( Xin lỗi, em chưa hiểu ý @gender. Phiền @gender hỏi lại cụ thể hơn, ví dụ "Làm sao để đăng ký Truyền hình FPT?"
+  confirm_go_for_staff:
+    - "@Gender có muốn nói chuyện với nhân viên Chăm sóc khách hàng không ạ?"
+  wait_for_staff:
+    - "Phiền @gender đợi trong giây lát, nhân viên Chăm sóc khách hàng sẽ sớm trò chuyện để giải đáp thắc mắc của @gender."
+  register_staff_success:
+    - "Cảm ơn @gender @full_name, yêu cầu của @gender đã được đưa vào danh sách chờ phục vụ"
+  staff_alert_new_message:
+    - "Có yêu cầu từ @full_name cần bạn phục vụ"
+  no_answer_confirm_yes:
+    - "Có"
+  no_answer_confirm_no:
+    - "Không"
+  no_answer_confirm_yes_image:
+    - "https://ftel.fpt.ai/resources/images/yes.png"
+  no_answer_confirm_no_image:
+    - "https://ftel.fpt.ai/resources/images/no.png"
+  say_hello_bot:
+     - "Xin mời chọn nhóm nghiệp vụ cần tra cứu thông tin"
+  select_bot_options:
+      - "Xin chào @gender @full_name. Xin mời @gender nhập cú pháp: TRACUU <BSX> hoặc CAR <BSX>  để kiểm tra thông tin xe:"
+  Welcome_bot:
+  - "Xin chào @gender @full_name đến với hệ thống tra cứu thông tin bảo hiểm của TCT Bảo hiểm Bảo Việt."
+  luachon_bot:
+  - "Xin mời chọn thông tin tra cứu"
+  select_xecogioi:
+  - "Xe cơ giới"
+  select_taisan:
+  - "Tài sản"
+  select_hanghoa:
+  - "Hàng hóa"
+  select_tauthuy:
+  - "Tàu thủy"
+  select_bagdv:
+    - "Bảo An Gia Đình Việt"
+  select_tracuunhanh:
+  - "Tra cứu nhanh"
+  confirm_continue:
+  - "Tiếp tục"
+  confirm_back_home:
+  - "Menu chính"
+  select_sodon:
+      - "Số đơn/Số HDBH"
+  select_bsx:
+      - "Biển số xe"
+  select_tentau:
+      - "Tên tàu"
+  select_tracuu:
+      - "Tra cứu theo biển số xe"
+  select_syntax:
+      - "Tra cứu theo cú pháp"
+  getSyntax_title:
+    - "Xin mời nhập cú pháp tra cứu thông tin phù hợp: \r\n
+         CAR <bienkiemsoat>\r\n
+         GCN <soGCN>\r\n
+         SK <sokhung>\r\n
+         SD <sodon>\r\n
+         TAU <tentau>\r\n
+         HH <tentau>\r\n
+         IMO <soIMO>\r\n
+         TEN <tenkhach_hanghoa>\r\n
+         DK <sodangky>\r\n
+         DD <diadiem>\r\n
+         KH <tenkhach_chaykt>\r\n
+         CMT <chungminhthu>\r\n
+         MST <masothue>"
+  getReply_title:
+      - "Xin mời bạn chọn nhập theo cú pháp/menu:"
+  getAnswer_title:
+      - "Mời bạn lựa chọn"
+  getAlert_title:
+      - "Cám ơn @gender đã ghé thăm. Chức năng này đang chờ phát triển, Vui lòng quay lại sau"
+  NoData_Found:
+      - "Thông tin không tìm thấy trong hệ thống. Vui lòng liên hệ 1900558899 để được trợ giúp."
+  select_newclaim:
+    - "Tạo hồ sơ GQQLBH"
+  select_bosungtl:
+      - "Bổ sung tài liệu"
+  select_userguide:
+      - "Hướng dẫn sử dụng"
+  user_guide_title:
+      - "Anh chị tham khảo hướng dẫn sử dụng ở liên kết dưới đây:"
+  select_human:
+    - "Nhân viên CSKH"
+  select_human_icon:
+    - "https://ftel.fpt.ai/resources/images/vananh.png"
+  select_bot:
+    - "Nhân viên ảo"
+  select_bot_icon:
+    - "https://ftel.fpt.ai/resources/images/bot.png"
+  notExistFBID:
+    - "Xin lỗi, Tài khoản của bạn chưa được đăng ký trên hệ thống. Bạn vui lòng chờ hệ thống đồng bộ tài khoản"
+  getBienSoXe_title:
+    - "Mời nhập BKS/SK, ví dụ 29A 55732"
+  getSoKhung_title:
+      - "Mời nhập SK, ví dụ GW574625"
+  getCMTND_title:
+    - "Mời nhập số CMT, ví dụ 168123201"
+  getSoKhung_title:
+    - "Mời nhập số khung, ví dụ 168123201"
+  getLocationFire_title:
+      - "Mời nhập địa điểm BH, ví dụ %Hải Châu%"
+  getwebview:
+      - "Số lượng dữ liệu cần tìm trả về là "
+  getwelcome_webview:
+      - "Xin mời bạn lựa chọn."
+  getPolicyHolderName_title:
+      - "Mời nhập tên khách hàng, ví dụ Nguyễn Văn A"
+  getSoGCNBH_title:
+    - "Mời nhập số GCN, ví dụ 234986"
+  getMST_title:
+    - "Mời nhập Mã số thuế, ví dụ 0101102103"
+  getSoHopDong_title:
+    - "Mời nhập số đơn (InsureJ), ví dụ 128970"
+  getSoHDBH_title:
+    - "Xin mời nhập số HĐBH, ví dụ: 13568"
+  getVesselName_title:
+    - "Mời nhập tên tàu,ví dụ CH 305"
+  getIMO_title:
+    - "Mời nhập mã số IMO, ví dụ 8037025"
+  getMaSoDK_title:
+    - "Mời nhập mã số đăng ký, ví dụ 452120"
+  confirmSoHD_title:
+    - "Bạn vui lòng kiểm tra và xác nhận về hồ sơ này"
+  confirmSoHDNotFound_title:
+    - "Bạn vui lòng xác nhận số HĐ có chính xác không?"
+  confirmAddSoHD_title:
+    - "Yêu cầu có hợp đồng khác không?"
+  confirmMHID_select:
+    - "Bạn có muốn chọn lại quy trình?"
+  confirmWebView_btn:
+    - "WebView"
+  confirmContinue_btn:
+    - "Tiếp tục"
+  confirmReInput_btn:
+    -  "Quay lại"
+  confirmBackHome_btn:
+    -  "Menu chính"
+  confirm_sohd_ok:
+    - "Đúng"
+  confirm_sohd_notok:
+    - "Sai"
+  confirm_addsohd_ok:
+    - "Có"
+  confirm_addsohd_not:
+    - "Không"
+  select_nguoiyc_title:
+    - "Xin mời chọn người yêu cầu(nếu không có trong danh sách, vui lòng tự nhập bằng tay):"
+  select_nguoiruiro_title:
+    - "Xin mời chọn người rủi ro(nếu không có trong danh sách, vui lòng tự nhập bằng tay):"
+  nhapsodt_title:
+    - "Xin mời nhập số điện thoại người yêu cầu:"
+  nhapsodt_error:
+    - "Số điện thoại bạn nhập không hợp lệ!"
+  select_loairuiro_title:
+    - "Xin mời chọn Loại rủi ro:"
+  nhap_ghichu_title:
+    - "Xin mời bạn nhập ghi chú:"
+  display_policy_title:
+    - "Bạn đã hoàn thành nhập hồ sơ, thông tin chi tiết như sau:"
+  display_confirm_title:
+    - "Bạn đã hoàn thành bổ sung hồ sơ"
+  getInfoSoBVGI_title:
+    - "Nhập số hồ sơ GQQL bạn cần bổ sung tài liệu:"
+  nhapSoGYC_format_err:
+    - "Số GYCBH phải là số và bao gồm 9 chữ cái. Bạn vui lòng nhập lại số GYCBH"
+  nhapSoGYC_reenter:
+      - "Bạn vui lòng nhập lại số GYCBH"
+  createRequest_title:
+    - "Đang gửi thông tin lên COC"
+  createRequest_success:
+    - "Yêu cầu số @SoHoSo của bạn đã được chuyển đến Trung tâm tiếp nhận."
+  createRequest_failed:
+    - "Đã có lỗi xảy ra khi gửi thông tin lên COC. Bạn vui lòng thử lại sau!"
+  createRequest_error:
+    - "Hồ sơ gửi không thành công"
+  nhapAnh_title:
+    - "Xin mời cung cấp ảnh chụp @TenTaiLieu"
+  nhapAnh_processing:
+    - "Đang xử lý lưu ảnh..."
+  nhapAnh_error:
+    - "Ảnh nhập không hợp lệ, xin vui lòng nhập lại"
+  nhapAnh_save_local:
+    - "Đã lưu ảnh trong hệ thống"
+  nhapAnh_save_sucess:
+    - "Hoàn tất xử lý"
+  nhapAnh_confirm:
+    - "Bạn muốn hoàn thành hay tiếp tục upload ảnh?"
+  nofile_confirm:
+    - "Khởi tạo yêu cầu không thành công do không có ảnh nào"
+  confirm_adddoc:
+    - "Bạn đã hoàn thành nhập tài liệu, bạn có muốn tiếp tục bổ sung ko?"
+  confirm_adddoc_title:
+    - "Bạn muốn chuyển bước tiếp theo; bổ sung thêm ảnh hay xóa ảnh?"
+  confirm_choosedoc:
+    - "Xin mời cung cấp ảnh chụp Tài liệu bổ sung theo yêu cầu của Tổng Công ty"
+  failure_choicedoc:
+    - "Bạn cần chọn đúng bước cần bổ sung tài liệu"
+  resend_complete_btn:
+    - "Hoàn thành"
+  resend_finish_btn:
+    - "Kết thúc"
+  resend_cancel_btn:
+    - "Bỏ qua"
+  resend_complete_text:
+    - "Bạn có muốn hoàn thành lại yêu cầu?"
+  confirmComplete_title:
+    - "Bạn có muốn hoàn thành yêu cầu không?"
+  confirm_complete_ok:
+    - "Hoàn thành"
+  confirm_complete_not:
+    - "Hủy"
+  select_loairuiro_error:
+    - "Bạn chọn loại rủi ro chưa đúng"
+  getCargoCustomerName_title:
+      - "Mời nhập tên Khách hàng, ví dụ %ĐẠI DƯƠNG GROUP%"
+  Welcome_bot_fail:
+    - "Xin chào @gender @full_name đến với hệ thống tra cứu thông tin bảo hiểm của TCT Bảo hiểm Bảo Việt. Tài khoản của bạn chưa được phân quyền tra cứu thông tin này. Vui lòng liên hệ Admin CNTT của BHBV để được hỗ trợ. Xin cảm ơn!"
+jp:
+  error:
+    - "申し訳ございません。現在システムにエラーが発生しています。"
+  no_click_button:
+    - "上記の候補から選択してください。"
